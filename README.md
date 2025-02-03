@@ -8,8 +8,6 @@ This simple game allows users to race by using their keyboard - Press 'Q' to mov
 
 This game is currently hosted and live on Render: https://wagon-race.onrender.com Give it a try!
 
-⚠️Note: This app is hosted on a free Render instance, which spins down after inactivity. As a result, the first request after a period of inactivity may take up to a minute to load.
-
 Thank you!
 
 #JavaScript #DOM #AsynchronousEventHandling
