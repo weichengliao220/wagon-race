@@ -6,7 +6,7 @@ The Le Wagon vs Porsche 911 Race game was a challenge completed during the Le Wa
 
 This simple game allows users to race by using their keyboard - Press 'Q' to move the Le Wagon and 'P' to move the Porsche 911.
 
-This game is currently hosted and live on Render: https://wagon-race.onrender.com Give it a try!
+The Le Wagon vs Porsche 911 Race is currently hosted and live on Render: https://wagon-race.onrender.com
 
 Thank you!
 
